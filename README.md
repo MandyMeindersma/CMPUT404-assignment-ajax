@@ -6,6 +6,12 @@ CMPUT404-assignment-ajax
 ### Resources:
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
+### Contributors:
+* Kieter Balisnomo
+* Bennett Hreherchuk
+* Michael Paradis
+* Justin Widney
+
 CMPUT404-assignment-ajax
 
 See requirements.org (plain-text) for a description of the project.
